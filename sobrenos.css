@@ -1,0 +1,16 @@
+.sobrenos{
+    text-align: center;
+    height: calc(100vh - 156px);
+
+}
+
+.sobrenos_texto{
+    text-align: justify;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.sobrenos_descricao{
+  padding-top: 30px;
+}
